@@ -1,4 +1,4 @@
-# Label Studio Contributor’s Guide
+# Label Studio Contributor’s Guide How to start!
 
 Are you looking for ways to start contributing to Label Studio? This guide will help you understand how to contribute to the project, giving you an understanding of the types of contributions you can make, the standards for each type of contribution, the overall organization of the Label Studio project, and the contribution process.
 
